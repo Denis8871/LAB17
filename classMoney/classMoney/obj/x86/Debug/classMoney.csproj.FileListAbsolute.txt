@@ -1,0 +1,19 @@
+C:\Users\Геворг\Documents\Visual Studio 2010\Projects\05.2012\classMoney\classMoney\bin\Debug\classMoney.exe
+C:\Users\Геворг\Documents\Visual Studio 2010\Projects\05.2012\classMoney\classMoney\bin\Debug\classMoney.pdb
+C:\Users\Геворг\Documents\Visual Studio 2010\Projects\05.2012\classMoney\classMoney\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Геворг\Documents\Visual Studio 2010\Projects\05.2012\classMoney\classMoney\obj\x86\Debug\classMoney.Form1.resources
+C:\Users\Геворг\Documents\Visual Studio 2010\Projects\05.2012\classMoney\classMoney\obj\x86\Debug\classMoney.Properties.Resources.resources
+C:\Users\Геворг\Documents\Visual Studio 2010\Projects\05.2012\classMoney\classMoney\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Геворг\Documents\Visual Studio 2010\Projects\05.2012\classMoney\classMoney\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Геворг\Documents\Visual Studio 2010\Projects\05.2012\classMoney\classMoney\obj\x86\Debug\classMoney.exe
+C:\Users\Геворг\Documents\Visual Studio 2010\Projects\05.2012\classMoney\classMoney\obj\x86\Debug\classMoney.pdb
+C:\Users\kony4\Downloads\classMoney\classMoney\classMoney\bin\Debug\classMoney.exe.config
+C:\Users\kony4\Downloads\classMoney\classMoney\classMoney\bin\Debug\classMoney.exe
+C:\Users\kony4\Downloads\classMoney\classMoney\classMoney\bin\Debug\classMoney.pdb
+C:\Users\kony4\Downloads\classMoney\classMoney\classMoney\obj\x86\Debug\classMoney.csproj.AssemblyReference.cache
+C:\Users\kony4\Downloads\classMoney\classMoney\classMoney\obj\x86\Debug\classMoney.Form1.resources
+C:\Users\kony4\Downloads\classMoney\classMoney\classMoney\obj\x86\Debug\classMoney.Properties.Resources.resources
+C:\Users\kony4\Downloads\classMoney\classMoney\classMoney\obj\x86\Debug\classMoney.csproj.GenerateResource.cache
+C:\Users\kony4\Downloads\classMoney\classMoney\classMoney\obj\x86\Debug\classMoney.csproj.CoreCompileInputs.cache
+C:\Users\kony4\Downloads\classMoney\classMoney\classMoney\obj\x86\Debug\classMoney.exe
+C:\Users\kony4\Downloads\classMoney\classMoney\classMoney\obj\x86\Debug\classMoney.pdb
